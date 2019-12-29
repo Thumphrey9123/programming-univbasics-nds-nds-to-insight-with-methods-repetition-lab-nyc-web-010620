@@ -57,7 +57,7 @@ def total_gross(source)
     
     index+= 1 
   end
-  
+  gross
 end
 
 
