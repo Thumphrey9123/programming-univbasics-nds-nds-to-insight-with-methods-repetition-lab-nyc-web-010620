@@ -52,7 +52,7 @@ def total_gross(source)
   while index< result.length do 
     
     
-    gross += result[index][names]
+    gross += result[index][names[index]]
     
     
     index+= 1 
